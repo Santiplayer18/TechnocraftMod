@@ -1,2 +1,2 @@
-# TechnocraftMod
-Official repository of the Minecraft mod Technocraft by Santiplayer18
+# TechnoworldMod
+Official repository of the Minecraft mod Technoworld by Santiplayer18
