@@ -15,6 +15,8 @@ Third number: it represents the bugfix release. Each update can have as many bug
 
 This code is important because it will be ask for when you report bugs. You can see what code uses your mod by executing the command '/technoworld info' in-game.
 
+License:
+
 This mod uses a Creative Commons 'Attribution-NonCommercial-ShareAlike 4.0 International' license (CC BY-NC-SA 4.0 for short). In the LICENSE.md file in the root directory you can find the complete and legal rules you must follow when redistributing your modifications for the mod, but I will make a short summary here:
 You are free to:
   - Share: copy and redistribute the material in any medium or format
