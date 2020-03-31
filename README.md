@@ -4,7 +4,7 @@ Official repository of the Minecraft mod 'Technoworld' by Santiplayer18.
 This mod adds technological-related stuff to Minecraft, all of them divided into modules included in it. This is, you can't have only some modules installed, you will have all of them. This is just for updating and managing reasons.
 
 Each version has its own code. Here's how the codes of the versions work:
-# Ex.: 1.3.2
+Ex.: 1.3.2
 First number: it represents if the mod is on a stable or unstable version. 0 is unstable, 1 is stable (maybe, if everything goes perfect, number 2 can be reached someday :D).
 Second number: it represents the update. Each update has a number specified that goes from 0 to 9. One day I will make a list with the number of every update (someday).
 Third number: it represents the bugfix release. Each update can have as many bugfix releases as necessary. If the number is 0, then it means that the update is on his first release state (no bugfixes yet).
