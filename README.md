@@ -3,6 +3,8 @@ Official repository of the Minecraft mod 'Technoworld' by Santiplayer18.
 
 This mod adds technological-related stuff to Minecraft, all of them divided into modules already included in it. This is, you can't have only some modules installed, you will have all of them. This is just for updating and managing reasons.
 
+# Versions
+
 Each version has its own code. Here's how the codes of the versions work:
 
 Ex.: 1.3.2
@@ -15,7 +17,7 @@ Third number: it represents the bugfix release. Each update can have as many bug
 
 This code is important because it will be ask for when you report bugs. You can see what code uses your mod by executing the command '/technoworld info' in-game.
 
-License:
+# License
 
 This mod uses a Creative Commons 'Attribution-NonCommercial-ShareAlike 4.0 International' license (CC BY-NC-SA 4.0 for short). In the LICENSE.md file in the root directory you can find the complete and legal rules you must follow when redistributing your modifications for the mod, but I will make a short summary here:
 You are free to:
