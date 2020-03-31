@@ -1,7 +1,7 @@
-# TechnoworldMod
+# Technoworld Mod
 Official repository of the Minecraft mod 'Technoworld' by Santiplayer18.
 
-This mod adds technological-related stuff to Minecraft, all of them divided into modules included in it. This is, you can't have only some modules installed, you will have all of them. This is just for updating and managing reasons.
+This mod adds technological-related stuff to Minecraft, all of them divided into modules already included in it. This is, you can't have only some modules installed, you will have all of them. This is just for updating and managing reasons.
 
 Each version has its own code. Here's how the codes of the versions work:
 Ex.: 1.3.2
