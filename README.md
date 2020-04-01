@@ -31,6 +31,7 @@ Under the following terms:
   - ShareAlike: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as     the original.
   - No additional restrictions: you may not apply legal terms or technological measures that legally restrict others from doing anything   the license permits.
 
+You can use this mod in any modpack (giving credit to the author and providing a link to the mod's CurseForge page would be awesome!).
 
 
 Thanks everyone! Enjoy the mod! :D
