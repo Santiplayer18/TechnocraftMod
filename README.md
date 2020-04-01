@@ -15,7 +15,9 @@ Second number: it represents the update. Each update has a number specified that
 
 Third number: it represents the bugfix release. Each update can have as many bugfix releases as necessary. If the number is 0, then it means that the update is on his first release state (no bugfixes yet).
 
-This code is important because it will be ask for when you report bugs. You can see what code uses your mod by executing the command '/technoworld info' in-game.
+Every version is availabe both for Minecraft 1.12.2 and 1.14.4 (both using Forge). Each of them has a folder in the root directory.
+
+This code and the Minecraft version the mod is running on are important because they will be ask for when you report bugs. You can see what code uses your mod and the current Minecraft version by executing the command '/technoworld info' in-game.
 
 # License
 
