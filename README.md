@@ -4,4 +4,4 @@ Here you can find all the files and resources used for executing and building th
 
 The license and code system found in the README.md and LICENSE.md files from the master branch also apply for this branch, so go there if you want to check them out.
 
-Reminder: you need Forge version 28.2.3 for Minecraft 1.14.4 or higher in order to run and build this mod.
+Reminder: you need 1.14.4 Forge (version 28.2.3 or higher) in order to run and build this mod.
