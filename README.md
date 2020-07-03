@@ -1,5 +1,5 @@
-# Technoworld Mod
-Official repository of the Minecraft mod 'Technoworld' by Santiplayer18.
+# TechnoWorld Mod
+Official repository of the Minecraft mod 'TechnoWorld' by Santiplayer18.
 
 This mod adds technological-related stuff to Minecraft, all of them divided into modules already included in it. This is, you can't have only some modules installed, you will have all of them. This is just for updating and managing reasons.
 
@@ -9,13 +9,13 @@ Each version has its own code. Here's how the codes of the versions work:
 
 Ex.: 1.3.2
 
-First number: it represents if the mod is on a stable or unstable version. 0 is unstable, 1 is stable (maybe, if everything goes perfect, number 2 can be reached someday).
+First number: this number is always 1, it is just there to mark that the mod is on his first development stage. Maybe we can reach number 2 someday, who knows.
 
-Second number: it represents the update. Each update has a number specified that goes from 0 to 9. One day I will make a list with the number of every update (someday).
+Second number: it represents the update. Each update has a number specified that goes from 0 to 9. You can find the list of updates on the official web page of the mod.
 
-Third number: it represents the bugfix release. Each update can have as many bugfix releases as necessary. If the number is 0, then it means that the update is on his first release state (no bugfixes yet).
+Third number: it represents the bugfix release. Each update can have as many bugfix releases as necessary. If the number is 0 or inexistent, then it means that the update is on his first release state (no bugfixes yet).
 
-Every version is availabe for Minecraft versions 1.12.2, 1.14.4 and 1.15.2 (all of them using Forge). Each of them has a folder in the root directory.
+Every version is availabe for Minecraft versions 1.12.2, 1.14.4 and 1.15.2 (all of them using Forge). Each of them has a specific branch.
 
 This code and the Minecraft version the mod is running on are important because they will be ask for when you report bugs. You can see what code uses your mod and the current Minecraft version by executing the command '/technoworld info' in-game.
 
