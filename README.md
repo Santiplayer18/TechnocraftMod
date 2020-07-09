@@ -38,9 +38,9 @@ You can use this mod in any modpack (giving credit to the author and providing a
 # Official social media profiles
 
 You can take a look at TechnoWorld's official social media profiles if you want to ask questions to the community, ask for feedback on your latest builds, stay tuned with the latest news from the mod or just to chat with other people!
-- CurseForge (curseforge.com/minecraft/mc-mods/technoworld): this is the official and reliable place to download the mod. Here you can read a quick overview of the mod and see all the files that I upload for you to download and play with.
+- CurseForge (https://curseforge.com/minecraft/mc-mods/technoworld): this is the official and reliable place to download the mod. Here you can read a quick overview of the mod and see all the files that I upload for you to download and play with.
 - Website (http://santiplayer18website.epizy.com/minecraft/mods/technoworld.html): this is the official website of the mod TechnoWorld where you can read the development blog and find a copy of the in-game manual for you to check whenever you want.
-- Reddit (reddit.com/r/santiplayer18mcmods): this is the official subreddit dedicated to Santiplayer18's Minecraft mods. In here you can post your builds, suggestions or ask for help to other members of the community. This subreddit is not exclusive to TechnoWorld, it is shared between all my mods.
+- Reddit (https://reddit.com/r/santiplayer18mcmods): this is the official subreddit dedicated to Santiplayer18's Minecraft mods. In here you can post your builds, suggestions or ask for help to other members of the community. This subreddit is not exclusive to TechnoWorld, it is shared between all my mods.
 - Discord server (https://discord.gg/2DxtXPt): this is the official Discord server for Santiplayer18's Minecraft mods. In here you can have real-time conversations with other members. You can ask questions to other members of the server, post your builds and make suggestions, so basically is similar to Reddit but in real-time. Again, this server is not exclusive to TechnoWorld, it is shared between all my mods.
 
 Thanks everyone! Enjoy the mod! :D
