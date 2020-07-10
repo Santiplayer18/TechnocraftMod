@@ -38,6 +38,7 @@ You can use this mod in any modpack (giving credit to the author and providing a
 # Official social media profiles
 
 You can take a look at TechnoWorld's official social media profiles if you want to ask questions to the community, ask for feedback on your latest builds, stay tuned with the latest news from the mod or just to chat with other people!
+- Github (https://github.com/Santiplayer18MCMods/TechnoWorld): this is the place where you can find the repository with the mod's source code and assets. You can also create issues to report bugs or make suggestions to improve some aspects of the mod. For more information on how to create an issue, chech the ISSUES.md file in the main branch if the repository.
 - CurseForge (https://curseforge.com/minecraft/mc-mods/technoworld): this is the official and reliable place to download the mod. Here you can read a quick overview of the mod and see all the files that I upload for you to download and play with.
 - Website (http://santiplayer18website.epizy.com/minecraft/mods/technoworld.html): this is the official website of the mod TechnoWorld where you can read the development blog and find a copy of the in-game manual for you to check whenever you want.
 - Reddit (https://reddit.com/r/santiplayer18mcmods): this is the official subreddit dedicated to Santiplayer18's Minecraft mods. In here you can post your builds, suggestions or ask for help to other members of the community. This subreddit is not exclusive to TechnoWorld, it is shared between all my mods.
